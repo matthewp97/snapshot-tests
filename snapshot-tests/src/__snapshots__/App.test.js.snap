@@ -1,0 +1,58 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders a snapshot 1`] = `
+<div
+  className="App"
+>
+  <div
+    className="card"
+    style={
+      Object {
+        "width": "18rem",
+      }
+    }
+  >
+    <div
+      className="card-body"
+    >
+      <div
+        className="card-title h5"
+      >
+        GitHub Info
+      </div>
+      <div
+        className="mb-2 text-muted card-subtitle h6"
+      >
+        Ramona L. Snider
+      </div>
+      <div
+        className="mb-2 text-muted card-subtitle h6"
+      >
+        User Name: rlsnider
+      </div>
+      <p
+        className="card-text"
+      >
+        <p>
+          Bio: Born in Tennessee, raised in Texas, Oklahoma, Kansas, Nevada and Mississippi.
+          <br />
+          College in Texas, UT at Brownsville, in Nevada UNLV and Clark County Comunity College. Studies include Real Estate, Hospitality, including Hotel/Motel Management and Casino Management, Education with minors in Math and Music. Currently attending HackerU for full stack bootcamp
+        </p>
+      </p>
+      <a
+        className="card-link"
+        href="https://makemyinspiration.com"
+      >
+        Personal Website
+      </a>
+      <br />
+      <a
+        className="card-link"
+        href="https:api.github.com/users/rlsnider"
+      >
+        GitHub Link
+      </a>
+    </div>
+  </div>
+</div>
+`;
