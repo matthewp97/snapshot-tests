@@ -23,7 +23,7 @@ exports[`renders a snapshot 1`] = `
       <div
         className="mb-2 text-muted card-subtitle h6"
       >
-        Ramona L. Snider
+        Matthew Perrot
       </div>
       <div
         className="mb-2 text-muted card-subtitle h6"
@@ -34,9 +34,8 @@ exports[`renders a snapshot 1`] = `
         className="card-text"
       >
         <p>
-          Bio: Born in Tennessee, raised in Texas, Oklahoma, Kansas, Nevada and Mississippi.
+          Bio: 25 years old, from Tampa, FL, live in Las Vegas, and a very cool person
           <br />
-          College in Texas, UT at Brownsville, in Nevada UNLV and Clark County Comunity College. Studies include Real Estate, Hospitality, including Hotel/Motel Management and Casino Management, Education with minors in Math and Music. Currently attending HackerU for full stack bootcamp
         </p>
       </p>
       <a
@@ -48,7 +47,7 @@ exports[`renders a snapshot 1`] = `
       <br />
       <a
         className="card-link"
-        href="https:api.github.com/users/rlsnider"
+        href="https:api.github.com/users/matthewp97"
       >
         GitHub Link
       </a>
